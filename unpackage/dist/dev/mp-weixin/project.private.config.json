@@ -1,0 +1,36 @@
+{
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/search/search",
+                    "pathName": "pages/search/search",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages/search/search",
+                    "pathName": "pages/search/search",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages/detail/detail",
+                    "pathName": "pages/detail/detail",
+                    "query": "songId=2704605090",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "pages/list/list",
+                    "pathName": "pages/list/list",
+                    "query": "listId=3",
+                    "launchMode": "default",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}
